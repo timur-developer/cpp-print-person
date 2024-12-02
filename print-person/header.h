@@ -10,9 +10,6 @@ struct Person {
 };
 
 std::string ReadString();
-
 int ReadInt();
-
 std::vector<Person> ReadPerson();
-
 void print_people(std::vector<Person> people);
