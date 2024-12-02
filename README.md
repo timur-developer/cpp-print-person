@@ -1,1 +1,2 @@
 # cpp-print-person
+I'm a beginner developer and right now i'm learning C++. This program I've written after reading about structures: in my course there was a code, which created structure people and person1 with name, surname and birth year of character Harry Potter. I wanted to make this program interactive and more easy to understand, so i made this program with easy-understanding function names and easy logic!
